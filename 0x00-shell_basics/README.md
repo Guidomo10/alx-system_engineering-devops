@@ -5,3 +5,4 @@ this script change the working directory to the home directory
 this script display current directory contents in a long format(1)
 this script display current directory contents in a long format including hidden files(2)
 this script make (1), (2), user and group IDs diplayed numerically
+this script create a directory in /tmp/ directory
