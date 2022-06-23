@@ -13,3 +13,4 @@ this script changes the working directory to the previous one
 this script list all files even with hidden, parent
  directory and specific directories
 this script print the type of a file
+this script create a symbolis links
