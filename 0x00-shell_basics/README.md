@@ -10,3 +10,5 @@ this scrpit move file to a directory
 this script remove/delete file in a directory
 this script remove a directory
 this script changes the working directory to the previous one
+this script list all files even with hidden, parent
+ directory and specific directories
