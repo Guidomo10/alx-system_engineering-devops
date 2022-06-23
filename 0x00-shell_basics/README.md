@@ -14,3 +14,4 @@ this script list all files even with hidden, parent
  directory and specific directories
 this script print the type of a file
 this script create a symbolis links
+this script copy html files with specific informations
