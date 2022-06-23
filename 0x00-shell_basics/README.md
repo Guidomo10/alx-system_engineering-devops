@@ -7,3 +7,4 @@ this script display current directory contents in a long format including hidden
 this script make (1), (2), user and group IDs diplayed numerically
 this script create a directory in /tmp/ directory
 this scrpit move file to a directory
+this script remove/delete file in a directory
