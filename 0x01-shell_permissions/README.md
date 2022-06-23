@@ -3,3 +3,5 @@ This script prints the username
 This script prints all the group current is part of
 This script changes the owner of file
 This script create an empty file
+This script adds execute permisssins in a file
+
