@@ -19,3 +19,4 @@ My shell readme
 16) this script clean emacs files
 17) this script creates directories
 18) this script list all files in a directory separate by a commas
+19) this script create magic file
