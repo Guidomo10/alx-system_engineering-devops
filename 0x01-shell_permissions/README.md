@@ -9,3 +9,4 @@ This script gives permissions to everybody to execute file
 This script ammowed only others to have all permissions
 This script gives a specific permission to a file
 This script sets a mode of a file
+This script sets the same mode for two files
