@@ -17,3 +17,4 @@ My shell readme
 14) this script copy html files with specific informations
 15) this script move files biginning with an uppercase 
 16) this script clean emacs files
+17) this script creates directories
