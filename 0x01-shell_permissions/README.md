@@ -11,3 +11,4 @@ This script gives a specific permission to a file
 This script sets a mode of a file
 This script sets the same mode for two files
 This script adds execute permissions for users, owner and groups
+This script creates a directory with some permissions
