@@ -18,3 +18,4 @@ My shell readme
 15) this script move files biginning with an uppercase 
 16) this script clean emacs files
 17) this script creates directories
+18) this script list all files in a directory separate by a commas
