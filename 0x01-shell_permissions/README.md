@@ -7,3 +7,4 @@ This script adds execute permisssins in a file
 This script adds more permissions
 This script gives permissions to everybody to execute file
 This script ammowed only others to have all permissions
+this script gives a specific permission to a file
