@@ -5,4 +5,5 @@ This script changes the owner of file
 This script create an empty file
 This script adds execute permisssins in a file
 This script adds more permissions
-this script gives permissions to everybody to execute file
+This script gives permissions to everybody to execute file
+This script ammowed only others to have all permissions
