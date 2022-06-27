@@ -6,3 +6,4 @@ Redirections README
 5) This script displays10 first line of a file
 6) This script display the third line of iacta file
 7) this script creats a file with a content
+8) this script saves current states of directories
