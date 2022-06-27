@@ -12,4 +12,5 @@ Redirections README
 11) This script count a nunber of directories an sub-directories in a current directory
 12) This script displays 10 newest fikes in the current directory
 13) this script takes a list of words as input and prints only words that appear exactly once.
-this script Display lines containing the pattern “root” 
+14) this script Display lines containing the pattern “root” 
+15) This script Display the number of lines that contain the pattern “bin”
