@@ -7,3 +7,4 @@ Redirections README
 6) This script display the third line of iacta file
 7) this script creats a file with a content
 8) this script saves current states of directories
+9) This script duplicate the last line of a file
