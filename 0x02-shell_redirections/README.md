@@ -9,3 +9,4 @@ Redirections README
 8) this script saves current states of directories
 9) This script duplicate the last line of a file
 10) This script delete all files with extension .js
+11) This script count a nunber of directories an sub-directories in a current directory
