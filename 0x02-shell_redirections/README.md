@@ -11,3 +11,4 @@ Redirections README
 10) This script delete all files with extension .js
 11) This script count a nunber of directories an sub-directories in a current directory
 12) This script displays 10 newest fikes in the current directory
+13) this script takes a list of words as input and prints only words that appear exactly once.
