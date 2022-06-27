@@ -8,3 +8,4 @@ Redirections README
 7) this script creats a file with a content
 8) this script saves current states of directories
 9) This script duplicate the last line of a file
+10) This script delete all files with extension .js
