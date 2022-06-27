@@ -5,3 +5,4 @@ Redirections README
 4) This script displays 10 last line of a file
 5) This script displays10 first line of a file
 6) This script display the third line of iacta file
+7) this script creats a file with a content
