@@ -14,3 +14,4 @@ Redirections README
 13) this script takes a list of words as input and prints only words that appear exactly once.
 14) this script Display lines containing the pattern “root” 
 15) This script Display the number of lines that contain the pattern “bin”
+16) This script Display lines containing the pattern “root” and 3 lines after them in the file
