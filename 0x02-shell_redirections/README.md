@@ -16,3 +16,4 @@ Redirections README
 15) This script Display the number of lines that contain the pattern “bin”
 16) This script Display lines containing the pattern “root” and 3 lines after them in the file
 17) this script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18) This script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
