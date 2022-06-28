@@ -19,3 +19,4 @@ Redirections README
 18) This script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19) This script Replace all characters A and c from input to Z and e respectively.
 20) This script removes all letters c and C from input.
+101) This script lists all the files with a .gif extension
