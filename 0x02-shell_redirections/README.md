@@ -15,3 +15,4 @@ Redirections README
 14) this script Display lines containing the pattern “root” 
 15) This script Display the number of lines that contain the pattern “bin”
 16) This script Display lines containing the pattern “root” and 3 lines after them in the file
+17) this script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
