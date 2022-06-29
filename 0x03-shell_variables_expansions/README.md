@@ -12,3 +12,4 @@ shell_variables_expansions
 10) This script prints results of exponentiation
 11) this script convert number from base to 10
 12) This script prints all combination of two letters with restriction
+13) This script prinst a number with two decimal places
