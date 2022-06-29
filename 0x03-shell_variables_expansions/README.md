@@ -7,3 +7,4 @@ shell_variables_expansions
 5) This script print environment of local variables
 6) This script creats a new local variable
 7) this script creats a new global variable
+8) this script prints results of addition
