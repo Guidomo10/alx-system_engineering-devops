@@ -3,4 +3,5 @@ shell_variables_expansions
 1) this script prints "hello user", where user is the current Linux user.
 2) This script add action to the path
 3) This script counts the number of directories in the path
-4) This script print environment
+4) This script print environment of global variables
+5) This script print environment of local variables
