@@ -14,3 +14,4 @@ shell_variables_expansions
 12) This script prints all combination of two letters with restriction
 13) This script prinst a number with two decimal places
 14) This script converts a number from base 10 to base 16.
+17) this scriptadds two numbers store in two environment
