@@ -10,4 +10,5 @@ shell_variables_expansions
 8) this script prints results of addition
 9) This script prints results of division
 10) This script prints results of exponentiation
-11) this scripts convert number from base to 10
+11) this script convert number from base to 10
+12) This script prints all combination of two letters with restriction
