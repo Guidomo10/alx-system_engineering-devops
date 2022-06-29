@@ -5,3 +5,4 @@ shell_variables_expansions
 3) This script counts the number of directories in the path
 4) This script print environment of global variables
 5) This script print environment of local variables
+6) This script creates a new local variable
