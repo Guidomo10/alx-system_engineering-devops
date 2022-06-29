@@ -8,3 +8,4 @@ shell_variables_expansions
 6) This script creats a new local variable
 7) this script creats a new global variable
 8) this script prints results of addition
+9) This script prints results of division
